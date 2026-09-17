@@ -1,7 +1,6 @@
 # MZM: Reprimed
 
 A native PC port of **Metroid: Zero Mission**.
-
 This project is currently an early proof of concept.
 
 ## Current status
@@ -24,8 +23,20 @@ This is **not yet a complete playable port**. Rendering, audio, game modes, and 
 
 The ROM is **not included** with this project.
 
+Launch `mzm_pc.exe` and select your ROM when prompted.
 The currently supported ROM is identified by:
 
 ```text
 SHA-1: 5de8536afe1f0078ee6fe1089f890e8c7aa0a6e8
 Size:  8388608 bytes
+```
+
+### Controls
+
+- Arrow keys — D-Pad
+- X — A
+- Z — B
+- Enter — Start
+- Backspace — Select
+- A — L
+- S — R
