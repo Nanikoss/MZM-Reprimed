@@ -6,8 +6,6 @@ This project is currently an early proof of concept.
 
 ## Current status
 
-The current proof of concept:
-
 - Runs as a native Windows executable
 - Initializes the original game logic
 - Implements keyboard input
