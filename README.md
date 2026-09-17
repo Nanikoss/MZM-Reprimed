@@ -1,6 +1,6 @@
-# Metroid: Zero Mission — Native Windows Port
+# MZM: Reprimed
 
-An experimental native Windows port of **Metroid: Zero Mission**.
+A native PC port of **Metroid: Zero Mission**.
 
 This project is currently an early proof of concept.
 
