@@ -3,6 +3,9 @@
 A native PC port of **Metroid: Zero Mission**.
 This project is currently an early proof of concept.
 
+![MZM: Reprimed development preview](media/mzm-reprimed-preview.gif)
+> Early development footage — work in progress.
+
 ## Current status
 
 - Runs as a native Windows executable
