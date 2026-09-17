@@ -2,7 +2,7 @@
 
 An experimental native Windows port of **Metroid: Zero Mission**.
 
-This project is currently an early proof of concept. It runs game code natively on Windows rather than through a GBA emulator.
+This project is currently an early proof of concept.
 
 ## Current status
 
